@@ -1,8 +1,9 @@
 {
   "PlatformAvatars": {
-    "EPIC": "imgur link",
-    "STEAM": "imgur link here",
-    "XBOX": "iagur link here",
-    "PS4": "imgur link here",
+    "EPIC": "https://media.discordapp.net/attachments/1108922860916973601/1119039037018218516/Epic-Games-Logo.png?width=572&height=650",
+    "STEAM": "https://media.discordapp.net/attachments/1108922860916973601/1119038863185289286/R.png?width=650&height=650",
+    "XBOX": "https://media.discordapp.net/attachments/1108922860916973601/1119038700748296282/OIP.png?width=596&height=650",
+    "PS4": "https://media.discordapp.net/attachments/1108922860916973601/1119039287082618952/Playstation-Logo-1994.png?width=1154&height=650",
+    "PS3": "https://media.discordapp.net/attachments/1108922860916973601/1119039287082618952/Playstation-Logo-1994.png?width=1154&height=650"
   }
 }
