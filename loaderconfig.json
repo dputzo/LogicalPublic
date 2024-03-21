@@ -1,6 +1,6 @@
 {
-  "version": "1",
-  "latestbinary": "",
+  "version": "2",
+  "latestbinary": "https://cdn.discordapp.com/attachments/1108922893817098240/1220189245654958200/LogicalLoader.exe?ex=660e08ca&is=65fb93ca&hm=be55ffb9c5774f3454ad158afbe30af7a6fe3396480757b002b1066dcc65bebe&",
   "decryption": {
     "key": "2abf0b78522cd6556339b9e0163ff0d6212be1ef2d291a044da8ae48a62fc99a",
     "iv": "6f5cadb8b9dd5aaececea0e8bbfbd99fef60b8d13c5833ecc500f099fb2a7f69"
