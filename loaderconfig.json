@@ -1,6 +1,6 @@
 {
-  "version": "2",
-  "latestbinary": "https://cdn.discordapp.com/attachments/1108922893817098240/1220520445263085699/LogicalLoaderV2.exe?ex=660f3d3e&is=65fcc83e&hm=d349b59f22394e7ec24763ca20dea7183558d0d1c227079cbf43594b884f0846&",
+  "version": "3",
+  "latestbinary": "https://raw.githubusercontent.com/yvngxenvy/LogicalPublic/main/LogicalLoader.exe",
   "decryption": {
     "key": "2abf0b78522cd6556339b9e0163ff0d6212be1ef2d291a044da8ae48a62fc99a",
     "iv": "6f5cadb8b9dd5aaececea0e8bbfbd99fef60b8d13c5833ecc500f099fb2a7f69"
